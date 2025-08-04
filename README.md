@@ -1,7 +1,7 @@
 # 🌾 CropCadet - Your Smart Farming Assistant
 
 <div align="center">
-     <img src="CropCadet.png" alt="CropCadet Logo" width="120" height="120">
+     <img src="CropCadet.png" alt="CropCadet Logo" width="180" height="180">
 
 **Empowering farmers with smart technology for better crop management**
 
