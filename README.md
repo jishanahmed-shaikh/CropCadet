@@ -1,8 +1,7 @@
 # 🌾 CropCadet - Your Smart Farming Assistant
 
 <div align="center">
-
-![CropCadet Logo](https://img.shields.io/badge/CropCadet-🌾-green?style=for-the-badge&logo=leaf&logoColor=white)
+     <img src="CropCadet.png" alt="CropCadet Logo" width="120" height="120">
 
 **Empowering farmers with smart technology for better crop management**
 
@@ -69,8 +68,8 @@ CropCadet is a comprehensive mobile application designed to assist farmers with 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/jishanahmed-shaikh/cropcadet.git
-   cd cropcadet
+   git clone https://github.com/jishanahmed-shaikh/CropCadet.git
+   cd CropCadet
    ```
 2. **Install dependencies**
 
@@ -200,8 +199,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 **Made with ❤️ for farmers worldwide**
-
-[![Star this repo](https://img.shields.io/github/stars/yourusername/cropcadet?style=social)](https://github.com/jishanahmed-shaikh/cropcadet)
-[![Follow us](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 
 </div>
