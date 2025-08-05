@@ -150,7 +150,7 @@ cropcadet/
 - Settings and preferences
 - Language selection
 
-## 🌟 Features in Development
+## 🌟 Additional Features powering CropCadet
 
 - [ ] 🤖 AI-powered crop disease detection
 - [ ] 🌐 Real-time weather API integration
@@ -201,3 +201,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for farmers worldwide**
 
 </div>
+
