@@ -1,4 +1,7 @@
+<div align="center">
+
 # 🌾 CropCadet - Your Smart Farming Assistant
+</div>
 
 <div align="center">
      <img src="CropCadet.png" alt="CropCadet Logo" width="200" height="200">
