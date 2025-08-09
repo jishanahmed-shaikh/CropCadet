@@ -5,6 +5,8 @@
 
 **Empowering farmers with smart technology for better crop management**
 
+[![🎥 Watch Demo](https://img.shields.io/badge/🎥_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NDG1ELOAXvY)
+
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -18,6 +20,12 @@
 ## 📱 About CropCadet
 
 CropCadet is a comprehensive mobile application designed to assist farmers with modern agricultural practices. Built with React Native and Expo, it provides real-time weather updates, market prices, government schemes information, and smart crop scanning capabilities.
+
+### 🎬 Demo Video
+
+[![CropCadet Demo](https://img.shields.io/badge/▶️_Watch_Full_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black)](https://www.youtube.com/watch?v=NDG1ELOAXvY)
+
+> 🎥 **See CropCadet in action!** Watch our comprehensive demo showcasing all features, from weather dashboard to crop scanning capabilities.
 
 ### ✨ Key Features
 
