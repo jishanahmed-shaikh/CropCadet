@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-     <img src="CropCadet.png" alt="CropCadet Logo" width="200" height="200">
+     <img src="CropCadet.png" alt="CropCadet Logo" width="250" height="250">
 
 **Empowering farmers with smart technology for better crop management**
 
