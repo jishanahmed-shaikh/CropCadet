@@ -19,7 +19,7 @@ export default function MarketScreen() {
   const categories = ['All', 'Grains', 'Vegetables', 'Fruits', 'Spices'];
   
   const locations = [
-    'Pune', 'Mumbai', 'Nashik', 'Aurangabad', 'Kolhapur', 'Nagpur'
+    'Pune', 'Mumbai', 'Nashik', 'Aurangabad', 'Kolhapur'
   ];
 
   const marketData = [
